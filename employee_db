@@ -1,0 +1,49 @@
+MariaDB [(none)]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
++--------------------+
+5 rows in set (0.019 sec)
+
+MariaDB [(none)]> create database employee;
+Query OK, 1 row affected (0.007 sec)
+
+MariaDB [(none)]> use employee;
+Database changed
+MariaDB [employee]> create table staff;
+ERROR 1113 (42000): A table must have at least 1 column
+MariaDB [employee]> \t
+MariaDB [employee]> create table staff ( user_id INT PRIMARY KEY, user_name VARCHAR(20), user_role VARCHAR(20), user_age INT);
+Query OK, 0 rows affected (0.016 sec)
+
+MariaDB [employee]> desc employees;
+ERROR 1146 (42S02): Table 'employee.employees' doesn't exist
+MariaDB [employee]> desc staff;
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| user_id   | int(11)     | NO   | PRI | NULL    |       |
+| user_name | varchar(20) | YES  |     | NULL    |       |
+| user_role | varchar(20) | YES  |     | NULL    |       |
+| user_age  | int(11)     | YES  |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+4 rows in set (0.008 sec)
+
+MariaDB [employee]> insert into staff (user_id, user_name, user_role, user_age) VALUES (001, Tolu, Intern, 18);
+ERROR 1054 (42S22): Unknown column 'Tolu' in 'field list'
+MariaDB [employee]> insert into staff (user_id, user_name, user_role, user_age) VALUES ('001', 'Tolu', 'Intern', '18');
+Query OK, 1 row affected (0.006 sec)
+
+MariaDB [employee]> insert into staff (user_id, user_name, user_role, user_age) VALUES ('002', 'Favour', 'Intern', '19');
+Query OK, 1 row affected (0.004 sec)
+
+MariaDB [employee]> insert into staff (user_id, user_name, user_role, user_age) VALUES ('003', 'Eva', 'Intern', '18');
+Query OK, 1 row affected (0.003 sec)
+
+MariaDB [employee]> show staff;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'staff' at line 1

@@ -1,0 +1,396 @@
+MariaDB [(none)]> source C:/Users/Toluwanimi.Oderinde/Documents/sakila-db/sakila-schema.sql
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 23 rows affected (0.202 sec)
+
+Query OK, 1 row affected (0.002 sec)
+
+Database changed
+Query OK, 0 rows affected (0.016 sec)
+
+Query OK, 0 rows affected (0.019 sec)
+
+Query OK, 0 rows affected (0.016 sec)
+
+Query OK, 0 rows affected (0.018 sec)
+
+Query OK, 0 rows affected (0.016 sec)
+
+Query OK, 0 rows affected (0.020 sec)
+
+Query OK, 0 rows affected (0.026 sec)
+
+Query OK, 0 rows affected (0.017 sec)
+
+Query OK, 0 rows affected (0.016 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.057 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.009 sec)
+
+Query OK, 0 rows affected (0.012 sec)
+
+Query OK, 0 rows affected (0.014 sec)
+
+Query OK, 0 rows affected (0.018 sec)
+
+Query OK, 0 rows affected (0.012 sec)
+
+Query OK, 0 rows affected (0.028 sec)
+
+Query OK, 0 rows affected (0.041 sec)
+
+Query OK, 0 rows affected (0.022 sec)
+
+Query OK, 0 rows affected (0.020 sec)
+
+Query OK, 0 rows affected (0.010 sec)
+
+Query OK, 0 rows affected (0.014 sec)
+
+Query OK, 0 rows affected (0.007 sec)
+
+Query OK, 0 rows affected (0.008 sec)
+
+Query OK, 0 rows affected (0.019 sec)
+
+Query OK, 0 rows affected (0.010 sec)
+
+Query OK, 0 rows affected (0.009 sec)
+
+Query OK, 0 rows affected, 1 warning (0.011 sec)
+
+Query OK, 0 rows affected (0.008 sec)
+
+Query OK, 0 rows affected, 1 warning (0.008 sec)
+
+Query OK, 0 rows affected, 1 warning (0.008 sec)
+
+Query OK, 0 rows affected (0.007 sec)
+
+Query OK, 0 rows affected (0.008 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+MariaDB [sakila]> source C:/Users/Toluwanimi.Oderinde/Documents/sakila-db/sakila-data.sql
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Database changed
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 200 rows affected (0.006 sec)
+Records: 200  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.002 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 603 rows affected (0.016 sec)
+Records: 603  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.002 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 16 rows affected (0.001 sec)
+Records: 16  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.002 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 600 rows affected (0.010 sec)
+Records: 600  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.002 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 109 rows affected (0.002 sec)
+Records: 109  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.003 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 599 rows affected (0.021 sec)
+Records: 599  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.002 sec)
+
+Query OK, 0 rows affected (0.011 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 1000 rows affected (0.088 sec)
+Records: 1000  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.024 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 5462 rows affected (0.082 sec)
+Records: 5462  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.011 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 1000 rows affected (0.014 sec)
+Records: 1000  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.004 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 4581 rows affected (0.070 sec)
+Records: 4581  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.003 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 6 rows affected (0.002 sec)
+Records: 6  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.006 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 14881 rows affected (0.359 sec)
+Records: 14881  Duplicates: 0  Warnings: 0
+
+Query OK, 1163 rows affected (0.016 sec)
+Records: 1163  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.018 sec)
+
+Query OK, 0 rows affected (0.012 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 12377 rows affected (0.340 sec)
+Records: 12377  Duplicates: 0  Warnings: 0
+
+Query OK, 3667 rows affected (0.071 sec)
+Records: 3667  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.003 sec)
+
+Query OK, 0 rows affected (0.026 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.004 sec)
+
+Query OK, 2 rows affected (0.008 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.004 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 2 rows affected (0.003 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.002 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+Query OK, 0 rows affected (0.000 sec)
+
+MariaDB [sakila]> use sakila;
+Database changed
+MariaDB [sakila]> show full tables;
++----------------------------+------------+
+| Tables_in_sakila           | Table_type |
++----------------------------+------------+
+| actor                      | BASE TABLE |
+| actor_info                 | VIEW       |
+| address                    | BASE TABLE |
+| category                   | BASE TABLE |
+| city                       | BASE TABLE |
+| country                    | BASE TABLE |
+| customer                   | BASE TABLE |
+| customer_list              | VIEW       |
+| film                       | BASE TABLE |
+| film_actor                 | BASE TABLE |
+| film_category              | BASE TABLE |
+| film_list                  | VIEW       |
+| film_text                  | BASE TABLE |
+| inventory                  | BASE TABLE |
+| language                   | BASE TABLE |
+| nicer_but_slower_film_list | VIEW       |
+| payment                    | BASE TABLE |
+| rental                     | BASE TABLE |
+| sales_by_film_category     | VIEW       |
+| sales_by_store             | VIEW       |
+| staff                      | BASE TABLE |
+| staff_list                 | VIEW       |
+| store                      | BASE TABLE |
++----------------------------+------------+
+23 rows in set (0.004 sec)
+
+MariaDB [sakila]> select count(*) from film;
++----------+
+| count(*) |
++----------+
+|     1000 |
++----------+
+1 row in set (0.003 sec)
+
+MariaDB [sakila]> select count(*) from film_text;
++----------+
+| count(*) |
++----------+
+|     1000 |
++----------+
+1 row in set (0.005 sec)
+
+MariaDB [sakila]> select inventory_in_stock(10);
++------------------------+
+| inventory_in_stock(10) |
++------------------------+
+|                      1 |
++------------------------+
+1 row in set (0.004 sec)
+
+MariaDB [sakila]> insert int rental(rental_date, inventory_id, customer_id, staff_id)
+    -> values(now(), 10, 3, 1);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'int rental(rental_date, inventory_id, customer_id, staff_id)
+values(now(), 10...' at line 1
+MariaDB [sakila]> insert into rental(rental_date, inventory_id, customer_id, staff_id)
+    -> values(now(), 10, 3, 1);
+Query OK, 1 row affected (0.003 sec)
+
+MariaDB [sakila]> set @rentID = LAST_INSERT_ID(),
+    -> @balance = get_customer_balance(3, now());
+Query OK, 0 rows affected (0.011 sec)
+
+MariaDB [sakila]> select @rentID, @balance;
++---------+----------+
+| @rentID | @balance |
++---------+----------+
+|   16050 |     4.99 |
++---------+----------+
+1 row in set (0.000 sec)
+
+MariaDB [sakila]> insert into payment (customer_id, staff_id, rental_id, amount, payment_date)
+    -> values(3, 1, @rentID, @balance, now());
+Query OK, 1 row affected (0.004 sec)
+
+MariaDB [sakila]> select rental_id
+    -> from rental
+    -> where inventory_id = 10
+    -> and customer_id = 3
+    -> and return_date is null
+    -> into @rentID;
+Query OK, 1 row affected, 1 warning (0.001 sec)
+
+MariaDB [sakila]> select @rentID;
++---------+
+| @rentID |
++---------+
+|   16050 |
++---------+
+1 row in set (0.000 sec)
+
+MariaDB [sakila]> update rental
+    -> set return_date = now()
+    -> where rental_id = @rentalID;
+Query OK, 0 rows affected (0.001 sec)
+
+MariaDB [sakila]> select get_customer_balance(3, now());
++--------------------------------+
+| get_customer_balance(3, now()) |
++--------------------------------+
+|                           0.00 |
++--------------------------------+
+1 row in set (0.002 sec)
+
+MariaDB [sakila]> concat(customer.last_name, ', ', customer.first_name) as customer, address.phone, film.title
+    -> from rental inner join customer on rental.customer_id = customer.customer_id
+    -> inner join address on customer.address_id = address.address_id
+    -> inner join inventory ON rental.inventory_id = inventory.inventory_id
+    -> inner join film ON inventory.film_id = film.film_id
+    -> where rental.return_date IS NULL
+    -> AND rental_date + INTERVAL film.rental_duration DAY < CURRENT_DATE()
+    -> ORDER BY title
+    -> limit 5;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'concat(customer.last_name, ', ', customer.first_name) as customer, address.ph...' at line 1
+MariaDB [sakila]> SELECT CONCAT(customer.last_name, ', ', customer.first_name) AS customer,
+    ->            address.phone, film.title
+    ->            FROM rental INNER JOIN customer ON rental.customer_id = customer.customer_id
+    ->            INNER JOIN address ON customer.address_id = address.address_id
+    ->            INNER JOIN inventory ON rental.inventory_id = inventory.inventory_id
+    ->            INNER JOIN film ON inventory.film_id = film.film_id
+    ->            WHERE rental.return_date IS NULL
+    ->            AND rental_date + INTERVAL film.rental_duration DAY < CURRENT_DATE()
+    ->            ORDER BY title
+    ->            LIMIT 5;
++----------------+--------------+------------------+
+| customer       | phone        | title            |
++----------------+--------------+------------------+
+| OLVERA, DWAYNE | 62127829280  | ACADEMY DINOSAUR |
+| HUEY, BRANDON  | 99883471275  | ACE GOLDFINGER   |
+| OWENS, CARMEN  | 272234298332 | AFFAIR PREJUDICE |
+| HANNON, SETH   | 864392582257 | AFRICAN EGG      |
+| COLE, TRACY    | 371490777743 | ALI FOREVER      |
++----------------+--------------+------------------+
+5 rows in set (0.013 sec)
+
+MariaDB [sakila]> show film;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'film' at line 1
+MariaDB [sakila]> desc film;
++----------------------+---------------------------------------------------------------------+------+-----+---------------------+-------------------------------+
+| Field                | Type                                                                | Null | Key | Default             | Extra                         |
++----------------------+---------------------------------------------------------------------+------+-----+---------------------+-------------------------------+
+| film_id              | smallint(5) unsigned                                                | NO   | PRI | NULL                | auto_increment                |
+| title                | varchar(128)                                                        | NO   | MUL | NULL                |                               |
+| description          | text                                                                | YES  |     | NULL                |                               |
+| release_year         | year(4)                                                             | YES  |     | NULL                |                               |
+| language_id          | tinyint(3) unsigned                                                 | NO   | MUL | NULL                |                               |
+| original_language_id | tinyint(3) unsigned                                                 | YES  | MUL | NULL                |                               |
+| rental_duration      | tinyint(3) unsigned                                                 | NO   |     | 3                   |                               |
+| rental_rate          | decimal(4,2)                                                        | NO   |     | 4.99                |                               |
+| length               | smallint(5) unsigned                                                | YES  |     | NULL                |                               |
+| replacement_cost     | decimal(5,2)                                                        | NO   |     | 19.99               |                               |
+| rating               | enum('G','PG','PG-13','R','NC-17')                                  | YES  |     | G                   |                               |
+| special_features     | set('Trailers','Commentaries','Deleted Scenes','Behind the Scenes') | YES  |     | NULL                |                               |
+| last_update          | timestamp                                                           | NO   |     | current_timestamp() | on update current_timestamp() |
++----------------------+---------------------------------------------------------------------+------+-----+---------------------+-------------------------------+
+13 rows in set (0.016 sec)
+
+MariaDB [sakila]> 
